@@ -1,0 +1,73 @@
+@font-face{
+  src:url('../fonts/BMJUA_otf.otf');
+  font-family:Jua;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#F0E8D9;
+  text-align: center;
+}
+.food .text{
+  padding:20px;
+}
+#per{
+  font-size: 64px;
+  margin-top:75px;
+  margin-bottom: 30px;
+  color:green;
+  font-family:Jua;
+}
+#pretty{
+  font-size: 32px;
+  margin-bottom: 75px;
+  color:green;
+  font-family:Jua;
+}
+.div{
+  border-radius: 10px;
+}
+div{
+  color:#58595B;
+}
+.food img{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.food{
+  background-color:white;
+  width:300px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:50px;
+  border-radius: 10px;
+}
+
+.food h3{
+  color:#58595B;
+  font-size:32px;
+  font-family:Jua;
+  margin-top:0;
+  margin-bottom:20px;
+}
+
+.food p {
+  color:#58595B;
+  font-size:16px;
+  font-family:Jua;
+  margin-bottom:16px;
+  margin-top:0;
+  text-align: left;
+}
+
+.food a{
+  color:#0000ee;
+  font-size:16px;
+  font-family:Jua;
+  text-decoration: none;
+  margin-top:0;
+  
+}
